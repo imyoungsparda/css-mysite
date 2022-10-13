@@ -1,0 +1,73 @@
+
+
+body{
+    margin:0;
+    text-align:center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    margin-top:50px;
+    margin-bottom:0px;
+    font-family: 'Sacramento', cursive;
+    font-size:5rem;
+    color:#66BFBF;
+    line-height:2;
+
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size:2rem;
+    margin-top:0px;
+    color:#66bfbf;
+    font-weight:normal;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:#11999E;
+
+}
+.top-Container{
+    background-color: #BDF2D5;
+    padding-top:100px;
+    position:relative;
+}
+.bottom-Container{
+
+}
+.bottom-cloud{
+    position:absolute;
+    bottom:300px;
+    left:350px;
+}
+.top-cloud{
+    position:absolute;
+    right:350px;
+    top:50px;
+}
+span{
+    text-decoration: underline;
+}
+
+.profile-pic{
+    width:20%;
+}
+a{
+    color:#11999e;
+}
+.skill-row{
+    width:50%;
+    margin:100px auto;
+    text-align:left;
+    line-height:2;
+}
+.spic1{
+    width:25%;
+    float:left;
+    margin-right:30px;
+}
+.spic2{
+    width:25%;
+    float:right;
+    margin-left:30px;
+}
